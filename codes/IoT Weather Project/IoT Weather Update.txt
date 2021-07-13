@@ -1,0 +1,8 @@
+Good day team, 
+
+My current challenge is still centered on Weather/Home/IoT sever integration, which is the last stage of the weather project . In this email I made available the Tx (Transmitter Code) and Rx (Receiver Code) to fetch data from DHT22 and Raindrop sensor.
+
+The sensor data was retrieved at the Rx end without issues while interfacing NRF with Arduino(s) but I only got negative values and gibberish while using ESP32 even on 115200 baud rate.
+
+However, thingspeak sever was used to test this final stage of this project but our final project is to use blynk app as our IoT platform since it is more user friendly, interactive and portable.
+
